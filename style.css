@@ -1,0 +1,18 @@
+body{
+  background-image: url("healthcare-background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:100%;
+  width:100%;
+}
+.first{
+  color:rgb(239, 241, 241);
+  text-align: center;
+}
+.jumbotron{
+  background-image: url("beautiful.jpg");
+  background-repeat: no-repeat;
+  background-size: 1525px 555px;
+  background-position:center;
+  color: black;
+}
